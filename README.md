@@ -2,9 +2,9 @@
 
 **Real-time Custom Workflows & Notifications for Scalable Organizations**
 
-[GitHub Repository](https://github.com/Waseeq-Zafar/S.W.E.N.S.git)
+[GitHub Repository](https://github.com/Faisal-Umar/S.W.E.N.S.git)
 
-> **Made by:** *Faisal-Umar*
+> **Made by:** *Faisal-Umar, Waseeq-Zafar*
 
 SWENS is a backend-first platform that empowers organizations to define custom workflows, manage task lifecycles, automate alerts, and deliver notifications via multiple channels — all in real-time with a scalable, event-driven architecture.
 
