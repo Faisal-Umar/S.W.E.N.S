@@ -122,7 +122,7 @@ SWENS addresses these challenges through:
 
 
 #### Clone repository
-git clone https://github.com/Waseeq-Zafar/S.W.E.N.S.git
+git clone https://github.com/Faisal-Umar/S.W.E.N.S.git
 cd S.W.E.N.S
 
 
